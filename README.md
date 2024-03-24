@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on security tools/SaaS
 - 📫 How to reach me ryan@yetanotherserver.online - (Yes I actually own this domain)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: All facts are fun from the right perspective. Reality not so much
+- ⚡ Fun fact: All facts are fun from the right perspective.
 
 <!---
 yetanotherusern4me/yetanotherusern4me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
