@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber sec
 - 🌱 I’m currently earning my CISSP/Security+
 - 💞️ I’m looking to collaborate on security tools/SaaS
-- 📫 How to reach me ryan@yetanotherserver.online - (Yes I actually own this domain)
+- 📫 How to reach me ryan@yetanotherserver.online
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: All facts are fun from the right perspective.
 
